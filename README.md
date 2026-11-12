@@ -2,12 +2,16 @@
 
 Computer Engineering student who likes building backend systems and practical tools.
 
-### 🔨 Currently building
+### 🔨 Projects
 
-**[AssetFlow](https://github.com/AD-coderr/AssetFlow)**: IT asset management app with a FastAPI + SQLAlchemy backend and a clean web UI.
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **[AssetFlow](https://github.com/AD-coderr/AssetFlow)** | IT asset management app for tracking devices and employees, with a clean web UI | Python · FastAPI · SQLAlchemy |
+| **[Apartment Evaluator](https://github.com/AD-coderr/Apartment-evaluator)** | Decision-support tool that ranks apartments by weighted price, space and noise, with a CLI and web interface | C++17 · cpp-httplib |
 
 ### 🧰 Tech I use
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
